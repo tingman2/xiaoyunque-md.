@@ -1,41 +1,8 @@
 {
-  "title": "萤火 · 项目文档",
-  "mode": "配套源码真实界面 · 配置与示例",
-  "notes": "画面来自配套 yinghuo-source 工作台；文档仓库本身不包含应用源码。",
+  "style": "全画幅实际界面操作录制，无宣传外框或模拟点击",
   "capture_date": "2026-10-10",
-  "editorial_effects": [
-    "browser frame",
-    "startup reveal",
-    "camera focus",
-    "click cue",
-    "captions",
-    "loop"
-  ],
-  "timing": "剪辑后的展示节奏，不代表真实处理耗时",
-  "steps": [
-    {
-      "action": "启动萤火",
-      "caption": "打开创作首页"
-    },
-    {
-      "action": "选择灵感",
-      "caption": "点击治愈系微电影示例"
-    },
-    {
-      "action": "展开剧集设置",
-      "caption": "查看集数与预估时长"
-    },
-    {
-      "action": "打开生成配置",
-      "caption": "查看风格、画幅与模型配置"
-    },
-    {
-      "action": "打开已有演示",
-      "caption": "查看示例剧本，不发起付费生成"
-    },
-    {
-      "action": "切换分镜",
-      "caption": "浏览镜头时长与分镜结构"
-    }
-  ]
+  "frames": 157,
+  "duration_seconds": 36.6,
+  "timing": "输入与阅读停留经过剪辑，不代表实际模型耗时",
+  "notes": "实际前端配置操作，以及已有「午后的大橘」项目的剧本、角色、分镜、参考图、视频与成片浏览。配置输入和历史任务分别录制，历史成片并非本次输入生成；未重新调用付费模型。"
 }
