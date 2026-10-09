@@ -1,0 +1,23 @@
+{
+  "title": "萤火 · 项目文档",
+  "duration_seconds": 9,
+  "fps": 8,
+  "scenes": [
+    {
+      "scene": "项目文档",
+      "source": "README.md",
+      "type": "repository content walkthrough"
+    },
+    {
+      "scene": "源码入口",
+      "source": "README.md",
+      "type": "repository content walkthrough"
+    },
+    {
+      "scene": "工作流概览",
+      "source": "README.md",
+      "type": "repository content walkthrough"
+    }
+  ],
+  "note": "Existing repository material; no live model calls or production availability claim."
+}
