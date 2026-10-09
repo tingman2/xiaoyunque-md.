@@ -1,0 +1,22 @@
+{
+  "title": "萤火文档",
+  "type": "操作流程示意，非实机录屏",
+  "steps": [
+    {
+      "action": "打开文档入口",
+      "description": "了解萤火项目定位"
+    },
+    {
+      "action": "进入源码仓库",
+      "description": "跳转 yinghuo-source"
+    },
+    {
+      "action": "阅读 API 文档",
+      "description": "查看请求、响应与错误"
+    },
+    {
+      "action": "查阅会话格式",
+      "description": "理解状态与任务记录"
+    }
+  ]
+}
