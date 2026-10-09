@@ -2,7 +2,6 @@
   "title": "萤火 · 项目文档",
   "mode": "配套源码真实界面 · 配置与示例",
   "notes": "画面来自配套 yinghuo-source 工作台；文档仓库本身不包含应用源码。",
-  "source": "work/demo-production/captures/yinghuo",
   "capture_date": "2026-10-10",
   "editorial_effects": [
     "browser frame",
@@ -15,32 +14,26 @@
   "timing": "剪辑后的展示节奏，不代表真实处理耗时",
   "steps": [
     {
-      "capture": "01-home.png",
       "action": "启动萤火",
       "caption": "打开创作首页"
     },
     {
-      "capture": "02-inspiration.png",
       "action": "选择灵感",
       "caption": "点击治愈系微电影示例"
     },
     {
-      "capture": "03-episodes.png",
       "action": "展开剧集设置",
       "caption": "查看集数与预估时长"
     },
     {
-      "capture": "04-config.png",
       "action": "打开生成配置",
       "caption": "查看风格、画幅与模型配置"
     },
     {
-      "capture": "05-script.png",
       "action": "打开已有演示",
       "caption": "查看示例剧本，不发起付费生成"
     },
     {
-      "capture": "06-storyboard.png",
       "action": "切换分镜",
       "caption": "浏览镜头时长与分镜结构"
     }
